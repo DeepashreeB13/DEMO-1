@@ -1,2 +1,2 @@
-# DEMO-1
+# School Mangement Software
 NEW REPOSITORY ABOUT SCHOOL
